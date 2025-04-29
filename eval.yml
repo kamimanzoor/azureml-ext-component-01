@@ -1,6 +1,6 @@
 $schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
-name: my_eval
-display_name: Eval
+name: ext_eval_01
+display_name: ExtEval01
 type: command
 inputs:
   scoring_result:
@@ -16,4 +16,4 @@ tags:
   contact: ml-team@example.com
   owner: ml-team
   type: evaluation
-  repo: https://github.com/kamimanzoor/azureml-demo-component
+  repo: https://github.com/kamimanzoor/azureml-ext-component-01
