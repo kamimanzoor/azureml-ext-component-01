@@ -1,3 +1,4 @@
+# This script evaluates scoring results and outputs evaluation results.
 import argparse
 from pathlib import Path
 from datetime import datetime
