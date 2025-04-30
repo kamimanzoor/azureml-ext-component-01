@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/kamimanzoor/azureml-ext-component-01/compare/v1.0.0...v1.1.0) (2025-04-30)
+
+
+### Features
+
+* add a placeholder for Feature 3 in evaluation script ([#3](https://github.com/kamimanzoor/azureml-ext-component-01/issues/3)) ([898a26e](https://github.com/kamimanzoor/azureml-ext-component-01/commit/898a26e2296a3b109caa8439975a92e1adef2375))
+
 ## 1.0.0 (2025-04-29)
 
 
